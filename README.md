@@ -1,7 +1,6 @@
 # PromptScan
 
 This is the public repository for the open-source project **PromptScan**. 
-The full code is currently being organized and will be shared soon.
 
 ### Requirements
 tensorflow，keras    2.6.0
