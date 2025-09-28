@@ -3,7 +3,7 @@
 This is the public repository for the open-source project **PromptScan**. 
 
 ### Requirements
-tensorflow，keras    2.6.0
+tensorflow，keras    2.6.1
 numpy      1.22.4
 
 ### Demo
